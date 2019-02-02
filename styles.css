@@ -1,0 +1,34 @@
+#vs {
+  width: 476px;
+  height: 386px;
+  position: absolute;
+  bottom: 417px;
+  left: 500px;
+  top: 100px;
+}
+#fe {
+  position: absolute;
+  top: 200px;
+  right: 0px;
+  background-color: rgba(0, 0, 0, 0);
+  color: Black;
+  width: 476px;
+  height: 130px;
+  border-color: black;
+}
+#email {
+  background-color: rgba(0, 0, 0, 0);
+  height: 66px;
+  width: 471px;
+  color: Black;
+  border-color: black;
+}
+#password {
+  position: absolute;
+  top: 100px;
+  background-color: rgba(0, 0, 0, 0);
+  height: 66px;
+  width: 471px;
+  color: Black;
+  border-color: black;
+}
